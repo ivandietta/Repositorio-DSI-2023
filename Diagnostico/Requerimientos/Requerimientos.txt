@@ -1,0 +1,23 @@
+Requerimientos Funcionales:
+
+-Registro de Guías Turísticos:
+El sistema debe permitir a los guías turísticos registrarse proporcionando información personal, incluyendo nombre, apellido, DNI, CUIT, domicilio, teléfono y email.
+-Creación de Ofertas de Servicios Turísticos:
+Los guías turísticos deben poder crear ofertas de servicios turísticos, incluyendo título, descripción, precio por persona, fecha y hora de inicio, y tipo de servicio.
+-Consulta de Ofertas de Servicios Turísticos:
+Los usuarios deben poder buscar servicios turísticos por tipo y ubicación en el sitio web.
+-Registro de Usuarios:
+Los usuarios interesados en reservar servicios deben registrarse proporcionando información personal, incluyendo nombre, apellido, DNI, CUIT, domicilio, teléfono y email.
+-Reserva de Servicios:
+Los usuarios registrados pueden seleccionar y reservar servicios turísticos, especificando la fecha de uso y la cantidad de personas.
+-Procesamiento de Pagos:
+El sistema debe permitir a los usuarios realizar pagos con tarjeta de crédito para las reservas.
+
+Requerimientos No Funcionales:
+
+-Rapidez y Facilidad de Uso:
+El sistema debe ser fácil de usar y proporcionar una experiencia de usuario eficiente.
+-Seguridad de Datos:
+La información de usuarios y pagos debe manejarse de manera segura.
+-Disponibilidad Continua:
+El sistema debe estar disponible para los usuarios en todo momento.
