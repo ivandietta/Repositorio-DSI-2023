@@ -1,0 +1,2 @@
+Testing/Primera-iteración/Estacionamiento-inspector/Server.exe filter=lfs diff=lfs merge=lfs -text
+Testing/Primera-iteración/Estacionamiento-inspector/Client.exe filter=lfs diff=lfs merge=lfs -text
